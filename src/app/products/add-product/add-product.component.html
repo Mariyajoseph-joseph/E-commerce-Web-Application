@@ -1,0 +1,47 @@
+<h2 class="text-center">Add new product Details </h2>
+<form  [formGroup]="AddProductForm" class ="row g-3" (ngSubmit)="addProduct()">
+
+    <div class="col-md-6">
+        <label for="validationServer01" class="form-label">Product Id</label>
+        <input  type="text" name="id" formControlName="id"  class="form-control" id=" validationServer01" required >
+    </div>
+
+<div class="col-md-6">
+    <label for="validationServer02" class="form-label"> Product Name</label>
+    <input  type="text" name="productName" formControlName="productName"  class="form-control" id=" validationServer02" required >
+</div>
+
+<div class="col-md-6">
+    <label for="validationServer03" class="form-label">Product price</label>
+    <input  type="text" name="price" formControlName="price"  class="form-control" id=" validationServer03" required >
+</div>
+
+<div class="col-md-6">
+    <label for="validationServer04" class="form-label" >product Availability</label>
+    <input  type="text" name="available" formControlName="available" placeholder="Yes/No"  class="form-control" id=" validationServer04" required >
+</div>
+
+<div class="col-md-6">
+    <label for="validationServer05" class="form-label">product Rating</label>
+    <input  type="text" name="rating" formControlName="rating"  class="form-control" id=" validationServer05" required >
+</div>
+
+<div class="col-md-6">
+    <label for="validationServer06" class="form-label">product Review</label>
+    <input  type="text" name="review" formControlName="review"  class="form-control" id=" validationServer06" required >
+</div>
+
+<div class="col-md-6">
+    <label for="validationServer07" class="form-label">Vendor Name </label>
+    <input  type="text" name="vendor" formControlName="vendor"  class="form-control" id=" validationServer07" required >
+</div>
+
+<div class="col-md-6">
+    <label for="validationServer08" class="form-label">Product Image</label>
+    <input  type="text" name="image" formControlName="image" placeholder="paste URL here" class="form-control" id=" validationServer08" required >
+</div>
+
+<div class="col-12">
+<button class="btn btn-primary" type="submit"> Submit Form</button>
+</div> <br><br>
+</form>

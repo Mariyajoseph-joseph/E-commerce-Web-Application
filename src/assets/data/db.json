@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productname": "Solid Men Polo Neck Black T-Shirt",
+      "categoryId": 1,
+      "price": 600,
+      "is_available": true,
+      "productimg": "https://i.postimg.cc/MpVQnQjV/black-polo.webp",
+      "rating": 4.3,
+      "review": 400,
+      "vendor_name": "srishti sri"
+    },
+    {
+      "id": 2,
+      "productname": "Casual Puff Sleeves Solid Women White Top",
+      "categoryId": 1,
+      "price": 700,
+      "is_available": true,
+      "productimg": "https://i.postimg.cc/7PR97SbW/fdfd.webp",
+      "rating": 5,
+      "review": 400,
+      "vendor_name": "mary textiles"
+    },
+    {
+      "id": 3,
+      "productname": "Slim Fit Women Red Cotton Blend Trousers",
+      "categoryId": 1,
+      "price": 780,
+      "is_available": true,
+      "productimg": "https://i.postimg.cc/PqqKYyb0/dfdfdf.webp",
+      "rating": 5,
+      "review": 400,
+      "vendor_name": "Hari textiles"
+    },
+    {
+      "id": 4,
+      "productname": "Green silk saree with blue border",
+      "categoryId": 1,
+      "price": 200,
+      "is_available": true,
+      "productimg": "https://i.postimg.cc/bJxGJcDP/free-yukti-rama-indian-culture-unstitched-original-imag2w7x3e7aqwdy.webp",
+      "rating": 5,
+      "review": 480,
+      "vendor_name": "jini providers"
+    },
+    {
+      "id": 5,
+      "productname": "Pigeon Favourite 15024 500 W Juicer Mixer Grinder (4 Jars, White)",
+      "categoryId": 2,
+      "price": 2300,
+      "is_available": true,
+      "productimg": "https://i.postimg.cc/PqkVXw5J/mixi.webp",
+      "rating": 4.3,
+      "review": 400,
+      "vendor_name": "srishti sri"
+    },
+    {
+      "id": 6,
+      "productname": "Alloy Multicolour & Gold Plated Jhumka Alloy Jhumki Earring",
+      "categoryId": 1,
+      "price": 700,
+      "is_available": true,
+      "productimg": "https://i.postimg.cc/Fz9Q76Ff/jumka.webp",
+      "rating": 5,
+      "review": 400,
+      "vendor_name": "parvi retail"
+    },
+    {
+      "id": 7,
+      "productname": "HP DeskJet 2331 Multi-function Color Printer  (White, Purple, Ink Cartridge)",
+      "categoryId": 3,
+      "price": 4000,
+      "is_available": true,
+      "productimg": "https://i.postimg.cc/kGdW8xLR/printer.webp",
+      "rating": 5,
+      "review": 400,
+      "vendor_name": "jaya retail"
+    },
+    {
+      "id": 8,
+      "productname": "MILTON COPPER CHARGE 1000 930 ml Bottle  (Pack of 1, Copper, Copper) ",
+      "categoryId": 2,
+      "price": 1000,
+      "is_available": true,
+      "productimg": "https://i.postimg.cc/26HfLw12/bottle.webp",
+      "rating": 5,
+      "review": 480,
+      "vendor_name": "mary properties"
+    }
+  ]
+}
